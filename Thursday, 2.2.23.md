@@ -12,3 +12,5 @@ Meanwhile I made some experiments with k3s on my own machine, following this [gu
 Didn't worked out as I expected. Very disappointing! 
 
 I can't think anymore, I will return to some learning for today.
+
+Today was sort of frutrating, because I spend a lot of time to figure out what is wrong, and didn't get any results is very unsatisfiing
