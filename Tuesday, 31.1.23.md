@@ -1,4 +1,4 @@
-# Daily summary
+# Daily summary of Tuesday
 I experienced some issues today regarding the VM handling.
 - the | was configured on Win-Setup, it took me a while to recognize this,  didn't received   error-messages until I tried a different approach to set the packages
 - had troubles with ssh-connection to the VMs, checked all configs, couldn't find the error
