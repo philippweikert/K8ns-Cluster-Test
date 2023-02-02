@@ -11,3 +11,5 @@ I have tried to set up a light-weight at home, ressource-problem, unfortuanetly
 I've read in the Kubernetes Docu about services and checked study-material, googled my problem, didn't found a proper solution, even Stack Over Flow let me down
 
 I have to admit, I have no real idea, just a uncertain feeling, what is wrong, need help
+
+update: got an idea, checked routing table (how could I forgot these!) Default-Gateway is set to 0.0.0.0, that doesn't look right, will dig depper tomorrow
