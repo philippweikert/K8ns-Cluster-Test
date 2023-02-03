@@ -1,6 +1,6 @@
 # Daily summary of Wednesday
 - started the Day with some planing, how to arrange the Repo
-    - for this I dived deeper into the possibilities of VS Code and digged into Markdown
+    - for this I dived deeper into the possibilities of VS Code and digged into [Markdown](https://daringfireball.net/projects/markdown/)
     - made up some ideas how the Single Steps setion should look like
     - created Links, to have a quicker overview and entrance to the Sections, README as Landing
 

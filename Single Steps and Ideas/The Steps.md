@@ -44,3 +44,9 @@ This is it! The last step. I decided to set a static IP for the API-Server, beca
  I wasn't quite satisfied with the result, but at least some progress:
 
  ![picture8](/Images/Bildschirm%C2%ADfoto%202023-02-01%20um%2017.26.57.png)
+
+ I deployed a Nginx-Webserver and exposed it with a LoadBalancer-Service, but I can't access it and I had no idea what is wrong there. I tired a curl on the created service-pod-combo:
+
+ ![picture9](/Images/Bildschirm%C2%ADfoto%202023-02-02%20um%2015.00.20.png)
+
+ Looked good to me. Where is the problem??
