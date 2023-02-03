@@ -13,3 +13,4 @@ Some short Info about the aim:
 - [Tuesday](/Tuesday%2C%2031.1.23.md)
 - [Wednesday](/Wednesday%2C%201.2.23.md)
 - [Thursday](/Thursday%2C%202.2.23.md)
+- [Friday](/Friday%2C%203.3.23.md)
