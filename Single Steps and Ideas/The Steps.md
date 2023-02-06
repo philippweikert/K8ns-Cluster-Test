@@ -50,3 +50,5 @@ This is it! The last step. I decided to set a static IP for the API-Server, beca
  ![picture9](/Images/Bildschirm%C2%ADfoto%202023-02-02%20um%2015.00.20.png)
 
  Looked good to me. Where is the problem??
+
+ Finally I found the problem, you need to have to be in the same Subnet as the nodes. Didn't knew that.

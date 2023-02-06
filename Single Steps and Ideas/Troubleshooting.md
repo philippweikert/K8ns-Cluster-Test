@@ -12,4 +12,10 @@ I've read in the Kubernetes Docu about services and checked study-material, goog
 
 I have to admit, I have no real idea, just a uncertain feeling, what is wrong, need help
 
-update: got an idea, checked routing table (how could I forgot these!) Default-Gateway is set to 0.0.0.0, that doesn't look right, will dig depper tomorrow
+update: got an idea, checked routing table (how could I forgot these!) Default-Gateway is set to 0.0.0.0, that doesn't look right, will dig depper tomorrow. Just said, it could be any IP, seems not a big of a deal.
+
+I found with hints from Marco and some try and error the problem with pod connectivity.
+
+Marco gave me some advice to handle the ssh topic, which is still not solved
+
+I have a hintch, but not quite certain what it means, and how to handle it in a proper way. Need to dive deeper.
