@@ -9,8 +9,9 @@ Some short Info about the aim:
 - [if you dare, my ideas](Single%20Steps%20and%20Ideas/Idea%20Collection.md)
 
 ### For the daily fix:
-- [Monday](/Monday%2C%2030.1.23.md) 
-- [Tuesday](/Tuesday%2C%2031.1.23.md)
-- [Wednesday](/Wednesday%2C%201.2.23.md)
-- [Thursday](/Thursday%2C%202.2.23.md)
-- [Friday](/Friday%2C%203.3.23.md)
+- [Monday, 30.1.](/Monday%2C%2030.1.23.md) 
+- [Tuesday, 31.1.](/Tuesday%2C%2031.1.23.md)
+- [Wednesday, 1.2.](/Wednesday%2C%201.2.23.md)
+- [Thursday, 2.2.](/Thursday%2C%202.2.23.md)
+- [Friday, 3.2.](/Friday%2C%203.3.23.md)
+- [Monday, 6.2.](/Monday%2C%206.2.23.md)

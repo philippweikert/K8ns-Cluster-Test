@@ -52,3 +52,25 @@ This is it! The last step. I decided to set a static IP for the API-Server, beca
  Looked good to me. Where is the problem??
 
  Finally I found the problem, you need to have to be in the same Subnet as the nodes. Didn't knew that.
+
+ Okay, since I can work again with the Mac-Terminal, I was ready to get things done, I wanted to be done.
+ I used the K8s Documention to set up Volumes.
+
+ Since I was never a huge fan of the K8s-Docu, I pieced it together, it is of course more elegant to put some of those yamls together, wouldn't never again do it like in this example, but here are some pics of the yamls for the storage: 
+ ![storage class](/Images/Bildschirm%C2%ADfoto%202023-02-06%20um%2014.37.22.png)
+
+ ![volume-claim](/Images/Bildschirm%C2%ADfoto%202023-02-06%20um%2014.36.41.png)
+
+ ![configmap](/Images/Bildschirm%C2%ADfoto%202023-02-06%20um%2014.32.32.png)
+
+ ![volume](/Images/Bildschirm%C2%ADfoto%202023-02-06%20um%2014.38.38.png)
+
+ ![deploy](/Images/Bildschirm%C2%ADfoto%202023-02-06%20um%2014.39.10.png)
+
+ ![nodePort](/Images/Bildschirm%C2%ADfoto%202023-02-06%20um%2014.31.37.png)
+
+ Some thoughts, as I told, I peiced it a bit together and that is why we have a lot of yamls around. I took cinder, because it was mentioned in the K8s-Docu and was part of the guide I took.
+ Postgresql was taken, because I asked Marco and he mentioned it in a message to my, so I thought: 'Okay, let's give it a shot!'
+
+ Never made it this way, in my courses they took always `local`, so I wanted to use another approach. Also I could have done some things defferent, for example I could have been taken helm instead of configMap, but I used this also to learn and repeat some things. 
+

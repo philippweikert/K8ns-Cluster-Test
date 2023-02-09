@@ -19,3 +19,5 @@ I found with hints from Marco and some try and error the problem with pod connec
 Marco gave me some advice to handle the ssh topic, which is still not solved
 
 I have a hintch, but not quite certain what it means, and how to handle it in a proper way. Need to dive deeper.
+
+After digging and not finding anything, I can tell, the best way to fix things is a proper reboot...
