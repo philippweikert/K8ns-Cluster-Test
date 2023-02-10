@@ -1,0 +1,6 @@
+# Daily summary of Friday
+
+- Today I spend the whole day exploring and installing ingress-controller, it was not that much fun, as it maybe sounds like.
+- I tried different apporoaches first installing it with [helm](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/), later I tried the official, from K8s linked [solution](https://kubernetes.github.io/ingress-nginx/deploy/#webhook-network-access). I decided to try the long way, with [manifests](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-manifests/). Let's hope this leads to the promised lines in my browser: Hello World!
+- Unfortuanetly I can't remeber all the things I tried out to fix this, but it has been a lot. I have read so much about Ingress today, and everywhere the tell you: "Yeah, just drop this, than expose this and there you are!" Not with me here. Will be a long journey, I'm afraid. 
+- I solved the Problem, that the Controller isn't right connecting to the ingress, but still no progress on the resolving issue.
