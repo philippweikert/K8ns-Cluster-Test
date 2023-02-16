@@ -75,3 +75,5 @@ This is it! The last step. I decided to set a static IP for the API-Server, beca
  Never made it this way, in my courses they took always `local`, so I wanted to use another approach. Also I could have done some things defferent, for example I could have been taken helm instead of configMap, but I used this also to learn and repeat some things. 
 
 Received further tasks from Marco, write a little Spring App and deploy it in the Cluster. Easier said then done. The App and the Image is ready, but deploying seems to get a bit of a ride.
+
+After the struggles I've been through finnaly it is at least on the server "curlable". Needed to find out why this and wanted to install some security. I wanted to limit it with TLS-Certification.
