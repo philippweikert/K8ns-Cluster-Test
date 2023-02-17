@@ -77,3 +77,5 @@ This is it! The last step. I decided to set a static IP for the API-Server, beca
 Received further tasks from Marco, write a little Spring App and deploy it in the Cluster. Easier said then done. The App and the Image is ready, but deploying seems to get a bit of a ride.
 
 After the struggles I've been through finnaly it is at least on the server "curlable". Needed to find out why this and wanted to install some security. I wanted to limit it with TLS-Certification.
+
+It worked more or less fine, I only got a result with `curl -k` maybe it is because it is a self signed Cert.
