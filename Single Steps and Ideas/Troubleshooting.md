@@ -21,3 +21,5 @@ Marco gave me some advice to handle the ssh topic, which is still not solved
 I have a hintch, but not quite certain what it means, and how to handle it in a proper way. Need to dive deeper.
 
 After digging and not finding anything, I can tell, the best way to fix things is a proper reboot...
+
+I was a bit lazy lately to write down my trouble-shooting-attempts, but I just read things and tried them over and over again and asked for help. I am still not sure what causes the major issue here, so maybe I need help again. 
