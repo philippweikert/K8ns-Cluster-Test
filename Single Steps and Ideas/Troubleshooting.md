@@ -26,4 +26,4 @@ I was a bit lazy lately to write down my trouble-shooting-attempts, but I just r
 
 Velero: I had a problem with the right version of the AWS-Plugin Version, could figure it out, ability to read is 10 of 10 in a modern working environment.
 
-Update to 1.26.2: The problem was, that the config-file wasn't there, so no `kubectl`-commands worked. Copied the admin.conf and all was nice. Made a misstake with copy and so it took me longer than assumed. 
+Update to 1.26.2: The problem was, that the config-file wasn't there, so no `kubectl`-commands worked and no contexts. Copied the admin.conf and all was nice. Made a misstake with copy and so it took me longer than assumed. 
