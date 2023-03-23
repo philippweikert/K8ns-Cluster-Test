@@ -22,3 +22,4 @@ Some short Info about the aim:
 - [Friday, 17.2.](/Friday%2C%2017.2.23.md)
 - [Tuesday, 7.3.](/Tuesday%2C%207.3.23.md)
 - [Wednesday, 8.3.](/Wednesday%2C%208.3.23.md)
+- [Thursday, 16.3.](/Thursday%2C%2016.3.23.md)

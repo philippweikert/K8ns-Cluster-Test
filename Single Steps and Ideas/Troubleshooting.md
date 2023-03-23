@@ -23,3 +23,7 @@ I have a hintch, but not quite certain what it means, and how to handle it in a 
 After digging and not finding anything, I can tell, the best way to fix things is a proper reboot...
 
 I was a bit lazy lately to write down my trouble-shooting-attempts, but I just read things and tried them over and over again and asked for help. I am still not sure what causes the major issue here, so maybe I need help again. 
+
+Velero: I had a problem with the right version of the AWS-Plugin Version, could figure it out, ability to read is 10 of 10 in a modern working environment.
+
+Update to 1.26.2: The problem was, that the config-file wasn't there, so no `kubectl`-commands worked and no contexts. Copied the admin.conf and all was nice. Made a misstake with copy and so it took me longer than assumed. 
